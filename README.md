@@ -13,3 +13,6 @@ Just run:
 ```docker-compose up```
 
 and enjoy ;)
+
+Added: Kafka Hello World
+You can test your environment doing a Publish and a Subscribe (Produce and Consumer)
