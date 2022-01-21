@@ -14,5 +14,8 @@ Just run:
 
 and enjoy ;)
 
-Added: Kafka Hello World
+# Kafka-Hello World
 You can test your environment doing a Publish and a Subscribe (Produce and Consumer)
+
+# Kafka - Emulated Architecture
+Example of BackEnd sending information to Kafka and Services Consuming and Producing.
